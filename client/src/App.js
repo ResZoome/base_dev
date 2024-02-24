@@ -5,11 +5,14 @@ import Button from "react-bootstrap/esm/Button";
 
 function App() {
   return (
+    <>
     <div className="App">
-      <header className="App-header">
-       <Button variant="primary">ITS A FUCKING BUTTON</Button>
+      <header>
+       <span>LOGO GOES HERE</span>
       </header>
     </div>
+    
+    </>
   );
 }
 
