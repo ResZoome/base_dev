@@ -1,11 +1,13 @@
-import Header from "./Header";
+import React from "react";
+import Button from "react-bootstrap/esm/Button";
+
 
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <Header/>
+       <Button variant="primary">ITS A FUCKING BUTTON</Button>
       </header>
     </div>
   );
