@@ -7,7 +7,7 @@ import Button from "react-bootstrap/esm/Button";
 function App() {
   return (
     <>
-    <div className="App">
+    <div style={{paddingLeft: "5rem", paddingRight: "5rem"}}>
       <header>
        <span>LOGO GOES HERE</span>
       </header>
