@@ -1,19 +1,17 @@
-import React from "react";
-import Button from "react-bootstrap/esm/Button";
 
+import Header from "./Header";
 
+import Credentials from "./pages/Credentials";
 
 function App() {
   return (
     <>
-    <div className="App">
-      <header>
-       <span>LOGO GOES HERE</span>
-      </header>
-    </div>
-    
+      <Header/>
+      <Credentials/>
     </>
   );
 }
 
 export default App;
+
+// resume -- credentials
