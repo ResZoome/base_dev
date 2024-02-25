@@ -24,7 +24,7 @@ export default function Home(){
                             <button style={{width: "2rem", height: "2rem", borderRadius: "50%", float: "left", marginLeft: '.5rem', marginTop: ".5rem", border: "none", backgroundColor: "LightGrey"}}></button>
                             <p style={{fontWeight: "bold", fontSize: ".8rem", paddingTop: ".4rem"}}>Your Resume Website</p>
                             <p class="text-start" style={{fontSize: ".5rem", marginLeft: "3.1rem", marginTop: "-1rem"}}>www.coolAF.com/BeenPimpin<br/>SinceBeenPimpin</p>
-                            <button type="button" class="btn" style={{color: "black", fontFamily: "Arial", borderRadius: "25px", borderColor: "Gainsboro", fontWeight: "bold", fontSize: ".7rem", marginTop: "-1rem", marginLeft: "-3rem"}}><span style={{color: "blue"}}>=></span> Share</button>
+                            <button type="button" class="btn" style={{color: "black", fontFamily: "Arial", borderRadius: "25px", borderColor: "Gainsboro", fontWeight: "bold", fontSize: ".7rem", marginTop: "-1rem", marginLeft: "-3rem"}}><span style={{color: "blue"}}>={">"}</span> Share</button>
                         </div>
                         <p style={{width: "80%", backgroundColor: "LightGrey", height: "4%", borderRadius: "25px", marginLeft: "5%", marginTop: "10%"}}></p>
                         <p style={{width: "80%", backgroundColor: "WhiteSmoke", height: "4%", borderRadius: "25px", marginLeft: "5%", marginTop: "-2%"}}></p>
