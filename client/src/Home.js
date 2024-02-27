@@ -32,12 +32,14 @@ export default function Home(){
                     </div>
                     <div class="col-lg-3" style={{backgroundColor: "LightGrey", height: "26.5rem", zIndex: "1", position: "relative", top: "-50px"}}>
                     </div>
-                    <div class="col col-sm-2">
-                        <div class="col col-md-2" style={{backgroundColor: "white", height: "20rem", marginRight: "2rem", borderRadius: "25px", boxShadow: "0 8px 16px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.1)"}}>
-                            <div class="btn-group" role="group" aria-label="Basic example">
-                                <button type="button" class="btn btn-primary">Left</button>
-                                <button type="button" class="btn btn-primary">Middle</button>
-                                <button type="button" class="btn btn-primary">Right</button>
+                    <div class="col col-md-2" style={{paddingLeft: "2rem", marginTop: "7rem"}}>
+                        <div class="col col-md-2" style={{backgroundColor: "white", height: "15rem", width: "13rem", marginRight: "2rem", borderRadius: "25px", boxShadow: "0 8px 16px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.1)"}}>
+                            <p style={{fontWeight: "bold", paddingTop: "1rem"}}>Dream Job</p>
+                            <p style={{marginTop: "-1rem"}}>Company Name</p>
+                            <div>
+                                <button style={{float: "left"}}></button>
+                                <button ></button>
+                                <button style={{float: "right"}}></button>
                             </div>
                         </div>
                     </div>
